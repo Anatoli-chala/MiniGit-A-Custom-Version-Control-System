@@ -104,5 +104,3 @@ This project is developed as part of a university course and is intended for edu
 ## 📫 Contact
 
 For any inquiries, please contact any of the group members or your course instructor.
-
----
